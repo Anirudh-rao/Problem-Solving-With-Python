@@ -1,3 +1,3 @@
 # Array and List Problems
 
-To scale up Array logic, try out the below-listed Python array programming examples. 
+To scale up Array and list logic we will be learning some basics level programming
